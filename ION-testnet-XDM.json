@@ -1,0 +1,10 @@
+[{
+  "ticker": "XDM",
+  "name": "Dark Matter",
+  "chain": "ION.testnet",
+  "summary": "Dark Matter (“XDM”) is a limited supply cryptoasset encoded with a deflationary monetary policy. XDM serves as the “Governing Token” for the ION blockchain, meaning that in order to generate any subsequent token on the ION blockchain, the author must pay a fee denominated in XDM.",
+  "description": "Description: XDM is an advanced store of value token that also includes a utilitarian property. There is a supply limit of 71,000 XDM and, because of the encoded deflationary policy, the total supply continues to decrease over time.\nDeflation is accomplished through the destruction of 80% of each fee collected. This deflationary property entails the need for a dynamic fee. If the fee were to remain static, the fees would represent a larger and larger proportion of the total amount of coins. So, just as the token supply diminishes over time, the fee also declines as the cumulative number of network transactions increases. As a result, the size of the fee scales down in proportion to the diminishing total supply.",
+  "creator": "Deflation Labs",
+  "contact": {"mailto": "admin@darkmatter.info"}
+ },
+  "<signature>"]
