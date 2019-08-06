@@ -2,9 +2,9 @@
   "ticker": "ATOM",
   "name": "Atoms",
   "chain": "ION.testnet",
-  "summary": "ATOM tokens on the ION blockchain earn Dark Matter (XDM) rewards. Atoms are one of the three “nucleus tokens” on the ION blockchain (XDM and MAGIC token are the others). The deep integration of nucleus tokens with the ION protocol allows Atoms to earn rewards every time XDM is transacted.",
-  "description": "In addition to earning ongoing Dark Matter rewards, ATOM tokens will also receive Dark Matter Airdrops. During distribution, 7,100 XDM (10% of the total supply) will be sent to ATOM tokens via a series of airdrops in 2019 and 2020. The ATOM token has zero decimal places and can only be transacted on the blockchain in whole numbers. In other words, while it is possible to buy 0.5 ATOM tokens on the ionomy Exchange, a platform user must own at least 1.0 ATOM tokens to withdraw the balance to the private blockchain-based wallets.\nThere is a fixed supply of 100,000 ATOM tokens. No more ATOM tokens can be minted because the “mint authority” has been permanently and provably rescinded.",
-  "creator": "Ionomy, LTD",
-  "contact": {"mailto:": "support@ionomy.com"}
-},
+  "summary": "ATOM tokens on the ION blockchain earn Dark Matter (XDM) rewards each time XDM is transacted.",
+  "description": "ATOM tokens on the ION blockchain earn Dark Matter (XDM) rewards each time XDM is transacted. Whenever XDM fees are spent to configure tokens, mint tokens, or transmit XDM on the network, 10% of the Dark Matter fee is reserved for distribution across the ATOM token supply and another 10% is reserved for distribution to ION masternodes. This cross-token and cross-currency reward structure requires special hard-coded authorities. Because of this core integration, the ATOM token is considered one of the three “Nucleus Tokens” on the ION blockchain. XDM and MAGIC tokens are the other Nucleus Tokens. In addition to earning ongoing Dark Matter rewards, ATOM tokens will also receive Dark Matter Airdrops. During distribution, 7,100 XDM (10% of the total supply) will be sent to ATOM tokens via a series of airdrops in 2019 and 2020. The ATOM token has zero decimal places and can only be transacted on the blockchain in whole numbers. In other words, while it is possible to buy 0.5 ATOM tokens on the ionomy Exchange, a platform user must own at least 1.0 ATOM tokens to withdraw the balance to the private blockchain-based wallets. There is a fixed supply of 100,000 ATOM tokens. No more ATOM tokens can be minted because the “mint authority” has been permanently and provably rescinded.",
+  "creator": "ionomy Limited",
+  "contact": { "mailto:": "support@ionomy.com" }
+ },
 "<signature>"]

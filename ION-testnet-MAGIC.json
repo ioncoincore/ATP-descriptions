@@ -1,0 +1,10 @@
+[{
+  "ticker": "MAGIC",
+  "name": "Magic",
+  "chain": "ION.testnet",
+  "summary": "The MAGIC token is a tokenized management key on the ION blockchain with special authorities necessary for: (1) the construction of a token system with coherent economic incentives; (2) the inception of Nucleus Tokens (special tokens that have interrelated monetary policies); and (3) the distribution of rewards that sustain this system of cryptographic tokens on the blockchain.",
+  "description": "The Atomic Token Protocol (ATP) introduces cross-coin and cross-token monetary policy and a reward structure that increases the value of some assets and aligns fees with network costs for sustainability. ATOM tokens, Dark Matter (XDM) tokens, and ION Masternodes all participate in an interconnected rewards system, and are considered the Nucleus Tokens. The creation of all subsequent tokens requires a fee that can only be paid in XDM. In order to create this system, a little bit of magic was required for the inception of the Nucleus Tokens. The MAGIC token itself is a tokenized management key with special authorities needed for token inception on the blockchain. The MAGIC token continues to play a role in the distribution of XDM fees to ATOM tokens and ION Masternodes.",
+  "creator": "The ION Core Developers",
+  "contact": { "https:": "//github.com/ioncoincore/ion", "mailto:": "ioncoincore@gmail.com" }
+ },
+"<signature>"]
