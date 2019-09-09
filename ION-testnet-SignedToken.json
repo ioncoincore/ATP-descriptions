@@ -1,0 +1,10 @@
+[{
+  "ticker": "SIGN",
+  "name": "SignedToken",
+  "chain": "ION.testnet",
+  "summary": "Token description documents can be signed",
+  "description": "Token description docuents can be signed.\nSigning is done using the signmessage RPC command, and verifying is done with verifymessage.\nThe text from opening brace (`{`) to closing brace (`}`) is signed.",
+  "creator": "ION Core developers",
+  "contact": { "mailto:": "ioncoincore@gmail.com" }
+ },
+""]
